@@ -134,3 +134,4 @@ C:\Users\Harun\Desktop\.NET_Denemeler\MediatoRTestApi\MediatoRTestApi\bin\Debug\
 C:\Users\Harun\Desktop\.NET_Denemeler\MediatoRTestApi\MediatoRTestApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Harun\Desktop\.NET_Denemeler\MediatoRTestApi\MediatoRTestApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Harun\Desktop\.NET_Denemeler\MediatoRTestApi\MediatoRTestApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Harun\Desktop\.NET_Denemeler\MediatoRTestApi\MediatoRTestApi\obj\Debug\net8.0\MediatoRTestApi.sourcelink.json
